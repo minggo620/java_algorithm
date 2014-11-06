@@ -1,4 +1,4 @@
-package java.minggo.sort;
+package algorithm.minggo.sort;
 
 /**
  * 测试各种排序算法，主要从下面几个方面说明 1.算法的稳定性 2.算法的时间复杂度 3.算法的空间复杂度。
