@@ -1,5 +1,6 @@
 # java_algorithm
-java算法
+###java算法
+
 `
 package algorithm.minggo.sort;
 
