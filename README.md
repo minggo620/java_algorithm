@@ -2,6 +2,7 @@
 
 [![Support](https://img.shields.io/badge/IDE-Eclipse-blue.svg?style=flat)]()
 [![Support](https://img.shields.io/badge/Lanuge-Java-blue.svg?style=flat)]()
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
 ###java算法
 
 `
